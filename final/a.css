@@ -1,0 +1,118 @@
+
+
+.logo{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: auto;
+    width: 100%;
+}
+
+.u li{
+    display: inline-flex;
+    padding: 50px 30px;
+}
+
+h3{
+    font-size: 22px;
+    font-weight: bold;
+}
+
+.se1{
+    background-image: url(image/WhatsApp\ Image\ .jpg);
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 500px;
+    padding: 50px 30px;
+}
+
+
+.ff{
+    background-image: url(image/التقاط\ الويب_25-2-2023_151517_.jpeg);
+    background-repeat: no-repeat;
+    padding: 15px;
+    width: 100%;
+    height: 50px;
+}
+
+.se2{
+    background-image: url(image/se2.jpeg);
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 600px;
+    padding: 50px 30px;
+}
+
+.gre{
+    /*background-image: url(image/shm.jpeg);*/
+    padding: 15px;
+    margin: right;
+    color: rgb(42, 205, 42);
+    text-decoration:underline;
+}
+.bor{
+    background-image: url(image/dash.jpeg);
+    padding: 20px;
+    border: 2px rgb(241, 238, 238) solid;
+    width: 300px;
+    box-shadow: 5px 3px whitesmoke;
+}
+
+.se3{
+    background-color: rgb(77, 14, 136);
+    background-repeat: no-repeat;
+    color: white;
+    padding: 50px 30px;
+    display: flex;
+    width: 100%;
+}
+.se3 span{
+    font-weight: bold;
+    font-size: 20px;
+}
+.b2{
+    background-color: rgb(64, 64, 237);
+    color: white;
+    margin: 20px;
+}
+.ll{
+    padding: 20px;
+    margin: 20px;
+}
+.b1{
+    background-color: rgb(17, 17, 144);
+    color: white;
+}
+input{
+    width: 300px;
+}
+
+
+.zz{
+background-color: rgb(4, 4, 55);
+color: rgb(219, 213, 213);
+height: 200px;
+padding: 15px;
+width: 100%;
+}
+.f1{
+    display: flex;
+    flex-direction: column;
+    position:absolute;
+    left: 100px;
+}
+.f2{
+    display: flex;
+    flex-direction: column;
+    position:absolute;
+    left: 500px;
+    top: 1850px;
+}
+.f3{
+    display: flex;
+    flex-direction: column;
+    position:absolute;
+    right: 500px;
+    top: 1850px;
+}
+
